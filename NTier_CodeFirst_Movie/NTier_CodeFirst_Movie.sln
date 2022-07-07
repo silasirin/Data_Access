@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{256929D2-077B-48D9-9FA6-2E8D45021A9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{785F4A54-4100-409B-9E2B-8B2BCF37213C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinUI", "WinUI\WinUI.csproj", "{D398BD7D-BF40-49E3-A3E9-0D0624B0670C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{256929D2-077B-48D9-9FA6-2E8D45021A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256929D2-077B-48D9-9FA6-2E8D45021A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256929D2-077B-48D9-9FA6-2E8D45021A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256929D2-077B-48D9-9FA6-2E8D45021A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{785F4A54-4100-409B-9E2B-8B2BCF37213C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{785F4A54-4100-409B-9E2B-8B2BCF37213C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{785F4A54-4100-409B-9E2B-8B2BCF37213C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{785F4A54-4100-409B-9E2B-8B2BCF37213C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D398BD7D-BF40-49E3-A3E9-0D0624B0670C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D398BD7D-BF40-49E3-A3E9-0D0624B0670C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D398BD7D-BF40-49E3-A3E9-0D0624B0670C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D398BD7D-BF40-49E3-A3E9-0D0624B0670C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63FBD55A-16B6-48DA-B113-D775117B1FD9}
+	EndGlobalSection
+EndGlobal

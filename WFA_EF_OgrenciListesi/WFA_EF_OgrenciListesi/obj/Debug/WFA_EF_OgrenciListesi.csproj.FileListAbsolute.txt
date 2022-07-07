@@ -1,0 +1,11 @@
+C:\Users\Sıla Şirin\Desktop\WFA_EF_OgrenciListesi\WFA_EF_OgrenciListesi\bin\Debug\WFA_EF_OgrenciListesi.exe.config
+C:\Users\Sıla Şirin\Desktop\WFA_EF_OgrenciListesi\WFA_EF_OgrenciListesi\bin\Debug\WFA_EF_OgrenciListesi.exe
+C:\Users\Sıla Şirin\Desktop\WFA_EF_OgrenciListesi\WFA_EF_OgrenciListesi\bin\Debug\WFA_EF_OgrenciListesi.pdb
+C:\Users\Sıla Şirin\Desktop\WFA_EF_OgrenciListesi\WFA_EF_OgrenciListesi\obj\Debug\WFA_EF_OgrenciListesi.csproj.AssemblyReference.cache
+C:\Users\Sıla Şirin\Desktop\WFA_EF_OgrenciListesi\WFA_EF_OgrenciListesi\obj\Debug\WFA_EF_OgrenciListesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sıla Şirin\Desktop\WFA_EF_OgrenciListesi\WFA_EF_OgrenciListesi\obj\Debug\WFA_EF_OgrenciListesi.Form1.resources
+C:\Users\Sıla Şirin\Desktop\WFA_EF_OgrenciListesi\WFA_EF_OgrenciListesi\obj\Debug\WFA_EF_OgrenciListesi.Properties.Resources.resources
+C:\Users\Sıla Şirin\Desktop\WFA_EF_OgrenciListesi\WFA_EF_OgrenciListesi\obj\Debug\WFA_EF_OgrenciListesi.csproj.GenerateResource.cache
+C:\Users\Sıla Şirin\Desktop\WFA_EF_OgrenciListesi\WFA_EF_OgrenciListesi\obj\Debug\WFA_EF_OgrenciListesi.csproj.CoreCompileInputs.cache
+C:\Users\Sıla Şirin\Desktop\WFA_EF_OgrenciListesi\WFA_EF_OgrenciListesi\obj\Debug\WFA_EF_OgrenciListesi.exe
+C:\Users\Sıla Şirin\Desktop\WFA_EF_OgrenciListesi\WFA_EF_OgrenciListesi\obj\Debug\WFA_EF_OgrenciListesi.pdb
